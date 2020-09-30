@@ -9,11 +9,11 @@ Below are some screen shots of the working program. If you want to give it a try
 [Password Generator](https://zach-greenberg.github.io/Password-Generator/)
 
 
-![PasswordGeneratorPrompt](\img\pass.gen.question.png)
+![PasswordGeneratorPrompt](img\pass.gen.question.png)
 
-![PasswordGeneratorInvalid](\img\pass.gen.invalid.png)
+![PasswordGeneratorInvalid](img\pass.gen.invalid.png)
 
-![PasswordGeneratorComplete](\img\pass.gen.complete.png)
+![PasswordGeneratorComplete](img\pass.gen.complete.png)
 
 ### look into
 I had a problem before with adding my arrays togeather but the random generator was including the "," between all of my inputs which was puzzling.
